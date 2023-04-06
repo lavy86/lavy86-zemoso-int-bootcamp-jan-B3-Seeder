@@ -1,6 +1,7 @@
-import MuiButton from './Components/Button'
-import Icon from '../src/Components/Icon'
+import React from 'react'
 
-export const App = () => {
-  return <Icon />
+const App = () => {
+  return <div>hello from App.tsx</div>
 }
+
+export default App
